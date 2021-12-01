@@ -1,0 +1,40 @@
+﻿@using ExcelDataNew.Models
+@model IEnumerable<CustomerModel>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="postedFile" />
+        <input type="submit" value="Import" />
+    }
+    @if (Model.Count() > 0)
+    {
+        <hr />
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Country</th>
+            </tr>
+            @foreach (CustomerModel customer in Model)
+            {
+                <tr>
+                    <td>@customer.CustomerId</td>
+                    <td>@customer.Name</td>
+                    <td>@customer.Country</td>
+                </tr>
+            }
+        </table>
+    }
+</body>
+</html>
