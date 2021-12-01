@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+
+    <h2>My Promise Function with Callback-</h2>
+
+    <button type="button" onclick="checker()">Click to Check</button>
+    <p id="demo"></p>
+
+    <script>
+function dataDisplay(text){
+   document.getElementById("demo").innerHTML = text;
+}
+function checker(){
+let ownPromise = new Promise(function(ownResolve, ownReject) {
+   let dummy = 100;
+   if (dummy == 100){
+      ownResolve("Passed <br> Dummy variable is matching... ");
+   }
+   else{
+      ownReject("Failed <br> Dummy variable is not matching...");
+   }
+});
+ownPromise.then(
+   function(value) { dataDisplay(value); },
+   function(error) { dataDisplay(error); }
+);
+}
+    </script>
+
+</body>
+</html>
