@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="row">
+
+        <div class="col-lg-2-md-2  col-sm-2  col-xs-2" style="height:900px;border:0px solid gray; background-color:dimgrey">
+
+            <div class="list-group">
+
+                @if (User.IsInRole("admin"))
+                {
+
+                    <a href="#" class="list-group-item"> Hello - @User.Identity.Name </a>
+                    <div class=" list-group-item">
+                        @Html.ActionLink("Exams", "Exam_List", new { @class = "list-group-item" })
+                    </div>
+
+                    <div class=" list-group-item">
+                        @Html.ActionLink("Questions", "Questions_List", new { @class = "list-group-item" })
+                    </div>
+
+                    <div class=" list-group-item">
+                        @Html.ActionLink("Results", "Results_List", new { @class = "list-group-item" })
+                    </div>
+                    <div class=" list-group-item">
+                        @Html.ActionLink("Logout", "Logout", new { @class = "list-group-item" })
+                    </div>
+                }
+                @if (User.IsInRole("student"))
+                {
+                    <a href="#" class="list-group-item"> Hello - @User.Identity.Name </a>
+
+                    <div class=" list-group-item">
+                        @Html.ActionLink("Exams", "Students_Exam", new { @class = "list-group-item" })
+                    </div>
+                    <div class=" list-group-item">
+                        @Html.ActionLink("Logout", "Logout", new { @class = "list-group-item" })
+                    </div>
+                }
+
+            </div>
+
+        </div>
+
+        <div class="col-lg-10-md-10 col-sm-10 col-xs-10" style="height:900px;border:0px solid gray">
+
+            @RenderBody()
+        </div>
+    </div>
+
+</body>
+</html>

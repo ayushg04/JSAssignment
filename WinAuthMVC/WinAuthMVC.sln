@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAuthMVC", "WinAuthMVC\WinAuthMVC.csproj", "{6442C175-D571-42D4-839C-7BD4C9AD893D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6442C175-D571-42D4-839C-7BD4C9AD893D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6442C175-D571-42D4-839C-7BD4C9AD893D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6442C175-D571-42D4-839C-7BD4C9AD893D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6442C175-D571-42D4-839C-7BD4C9AD893D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F3FC84-988B-486C-AF91-BFB0B7B47377}
+	EndGlobalSection
+EndGlobal

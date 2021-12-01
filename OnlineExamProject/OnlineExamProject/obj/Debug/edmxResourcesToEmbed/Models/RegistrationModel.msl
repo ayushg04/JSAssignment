@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RegisterAccountModelStoreContainer" CdmEntityContainer="RegistrationAccountEntities">
+    <EntitySetMapping Name="Registers">
+      <EntityTypeMapping TypeName="RegisterAccountModel.Register">
+        <MappingFragment StoreEntitySet="Register">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Exams">
+      <EntityTypeMapping TypeName="RegisterAccountModel.Exam">
+        <MappingFragment StoreEntitySet="Exams">
+          <ScalarProperty Name="exam_code" ColumnName="exam_code" />
+          <ScalarProperty Name="exam_name" ColumnName="exam_name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Questions">
+      <EntityTypeMapping TypeName="RegisterAccountModel.Question">
+        <MappingFragment StoreEntitySet="Questions">
+          <ScalarProperty Name="correct_answer" ColumnName="correct_answer" />
+          <ScalarProperty Name="option_D" ColumnName="option D" />
+          <ScalarProperty Name="option_C" ColumnName="option C" />
+          <ScalarProperty Name="option_B" ColumnName="option B" />
+          <ScalarProperty Name="option_A" ColumnName="option A" />
+          <ScalarProperty Name="question" ColumnName="question" />
+          <ScalarProperty Name="exam_code" ColumnName="exam_code" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Student_Answers">
+      <EntityTypeMapping TypeName="RegisterAccountModel.Student_Answers">
+        <MappingFragment StoreEntitySet="Student_Answers">
+          <ScalarProperty Name="option" ColumnName="option" />
+          <ScalarProperty Name="exam_code" ColumnName="exam_code" />
+          <ScalarProperty Name="q_id" ColumnName="q_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="results">
+      <EntityTypeMapping TypeName="RegisterAccountModel.result">
+        <MappingFragment StoreEntitySet="results">
+          <ScalarProperty Name="marks" ColumnName="marks" />
+          <ScalarProperty Name="exam_code" ColumnName="exam_code" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

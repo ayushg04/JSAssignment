@@ -1,0 +1,48 @@
+﻿@model OnlineExamProject.Models.result
+
+@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+<h2>Details</h2>
+
+<div>
+    <h4>result</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.exam_code)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.exam_code)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.marks)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.marks)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.name }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

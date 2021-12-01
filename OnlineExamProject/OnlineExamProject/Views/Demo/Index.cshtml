@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+    
+}
+<style>
+    .bg {
+        background-image: url("https://image.shutterstock.com/image-photo/web-page-browser-social-media-600w-1165145755.jpg");
+        height:100%;
+        color:white;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+</style>
+
+
+<div class="bg">
+    <h1>Dashboard</h1>
+    <h2>Hello @User.Identity.Name </h2>
+
+    <h3> Welcome to the Online Exam Portal. We conduct multiple exams on this portal.</h3>
+    <h3>Please select from the multiple menus given in the left hand side.</h3>
+
+</div>

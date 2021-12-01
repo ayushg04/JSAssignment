@@ -1,0 +1,53 @@
+﻿@model IEnumerable<OnlineExamProject.Models.Question>
+
+@{
+    ViewBag.Title = "StartTest";
+}
+
+<h2>StartTest</h2>
+
+@using (Html.BeginForm())
+{ 
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.question)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.option_A)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.option_B)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.option_C)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.option_D)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.question)
+            </td>
+            <td>
+                @item.option_A: @Html.RadioButton(item.question, item.option_A)
+            </td>
+            <td>
+                @item.option_B: @Html.RadioButton(item.question, item.option_B)
+            </td>
+            <td>
+                @item.option_C: @Html.RadioButton(item.question, item.option_C)
+            </td>
+            <td>
+                @item.option_D: @Html.RadioButton(item.question, item.option_D)
+            </td>
+        </tr>
+    }
+
+</table>
+<input type="submit" value="submit" />
+}

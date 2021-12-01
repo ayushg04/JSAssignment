@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "Student List";
+}
+
+<h2>Student List</h2>
+
+<table id="StudentTable" class="display">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+            <th>Address</th>
+            <th>Email</th>
+            <th>Phone</th>
+        </tr>
+    </thead>
+</table>
+
+<link href="//cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+@section scripts{
+    <script src="//cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#StudentTable").DataTable({
+                "ajax": {
+                    "url": "/Student/GetList",
+                    "type": "POST",
+                    "datatype":"json"
+                },
+                "columns": [
+                    { "data": "name","name":"name" },
+                    { "data": "city", "name": "city" },
+                    { "data": "address", "name": "address" },
+                    { "data": "email", "name": "email" },
+                    { "data": "phone", "name": "phone" },
+                ],
+
+                "serverSide": "true",
+                "order": [0, "asc"],
+                "processing": "true",
+                "language": {
+                    "processing":"processing...Please wait"
+                }
+            });
+        })
+    </script>
+    }

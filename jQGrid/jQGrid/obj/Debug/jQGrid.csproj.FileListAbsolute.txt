@@ -1,0 +1,167 @@
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\jQGrid.dll.config
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\jQGrid.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\jQGrid.pdb
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\csc.exe
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\csc.exe.config
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\csc.rsp
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\csi.exe
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\csi.exe.config
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\csi.rsp
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.AppContext.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Console.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Net.Http.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\vbc.exe
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\vbc.exe.config
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\vbc.rsp
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\Antlr3.Runtime.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\EntityFramework.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\EntityFramework.SqlServer.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\Newtonsoft.Json.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.Helpers.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.Mvc.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.Optimization.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.Razor.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.WebPages.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\WebGrease.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\EntityFramework.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\EntityFramework.SqlServer.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.Helpers.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.Mvc.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.Optimization.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.Razor.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.WebPages.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\Newtonsoft.Json.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\Antlr3.Runtime.pdb
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\obj\Debug\jQGrid.csproj.AssemblyReference.cache
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\obj\Debug\jQGrid.csproj.CoreCompileInputs.cache
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\obj\Debug\jQGrid.csproj.CopyComplete
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\obj\Debug\jQGrid.dll
+C:\Users\Daffolap-1002\source\repos\jQGrid\jQGrid\obj\Debug\jQGrid.pdb
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\jQGrid.dll.config
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\jQGrid.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\jQGrid.pdb
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\csc.exe
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\csc.exe.config
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\csc.rsp
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\csi.exe
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\csi.exe.config
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\csi.rsp
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.AppContext.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Console.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Net.Http.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\vbc.exe
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\vbc.exe.config
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\vbc.rsp
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\Antlr3.Runtime.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\EntityFramework.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\EntityFramework.SqlServer.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\Newtonsoft.Json.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.Helpers.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.Mvc.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.Optimization.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.Razor.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.WebPages.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\WebGrease.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\EntityFramework.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\EntityFramework.SqlServer.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.Helpers.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.Mvc.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.Optimization.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.Razor.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.WebPages.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\Newtonsoft.Json.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\Antlr3.Runtime.pdb
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\obj\Debug\jQGrid.csproj.AssemblyReference.cache
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\obj\Debug\jQGrid.csproj.CoreCompileInputs.cache
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\obj\Debug\jQGrid.csproj.CopyComplete
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\obj\Debug\jQGrid.dll
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\obj\Debug\jQGrid.pdb
+C:\Users\Daffolap-1002\Desktop\net. files\jQGrid\jQGrid\bin\System.Linq.Dynamic.dll

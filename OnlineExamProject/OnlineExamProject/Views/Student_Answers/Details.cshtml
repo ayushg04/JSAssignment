@@ -1,0 +1,50 @@
+﻿@model OnlineExamProject.Models.Student_Answers
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Student_Answers</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.q_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.q_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.exam_code)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.exam_code)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.option)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.option)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

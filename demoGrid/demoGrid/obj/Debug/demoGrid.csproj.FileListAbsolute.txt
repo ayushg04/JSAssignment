@@ -1,0 +1,4 @@
+C:\Users\Daffolap-1002\source\repos\demoGrid\demoGrid\obj\Debug\demoGrid.csproj.AssemblyReference.cache
+C:\Users\Daffolap-1002\source\repos\demoGrid\demoGrid\obj\Debug\demoGrid.csproj.CoreCompileInputs.cache
+C:\project\JSAssignment\demoGrid\demoGrid\obj\Debug\demoGrid.csproj.AssemblyReference.cache
+C:\project\JSAssignment\demoGrid\demoGrid\obj\Debug\demoGrid.csproj.CoreCompileInputs.cache
